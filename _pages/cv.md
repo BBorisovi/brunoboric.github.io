@@ -11,54 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* UCSD, Math BA, incomplete - September 2022 to March 2023
+* University of Zagreb, Math B.S. - 2026 (expected)
 
-Work experience
+Talks 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2023 - Einstein Chair Seminar - Iwasawa Theory
+* January 2024 - Anomalology Unseminar - [Iwasawa Theory](https://youtu.be/C1mpzIHOvhM)
+* UCSD Student Math Seminar - Spectral sequences - February 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Papers
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Differential Algebraic K-theory and Special Values of L-function | B. Borić, D. A. R. Sakthivadivel, forthcoming
+* Infinitesimal phenomena in algebraic geometry | B. Borić, D. A. R. Sakthivadivel, forthcoming
+* An algebraic theory of twisted monodromy representations | B. Borić, D. A. R. Sakthivadivel, forthcoming
